@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+streamlit
+
+try XGBoost model rather than Random forest regression
