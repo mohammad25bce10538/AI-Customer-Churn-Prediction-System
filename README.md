@@ -39,19 +39,6 @@ Tech Stack-
 - Streamlit
 
 
-Project Structure-
-
-customer-churn-project/
-│
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
-├── model.py          # Trains the model
-├── app.py            # Runs the Streamlit app
-├── model.pkl         # Saved model file
-├── README.md         # Project documentation
-
-
 Installation and Setup-
 
 1. Clone the repo:
